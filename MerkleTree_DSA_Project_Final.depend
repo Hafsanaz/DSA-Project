@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1765650381 source:d:\dsa practice questions\merkletree_dsa_project_final\src\filecomparator.cpp
+	"FileComparator.h"
+	<iostream>
+	<iomanip>
+
+1765650381 d:\dsa practice questions\merkletree_dsa_project_final\include\filecomparator.h
+	"MerkleTree.h"
+	<iomanip>
+	<vector>
+	<string>
+
+1765650381 d:\dsa practice questions\merkletree_dsa_project_final\include\merkletree.h
+	<vector>
+	<string>
+	"MerkleProof.h"
+
+1765650381 d:\dsa practice questions\merkletree_dsa_project_final\include\merkleproof.h
+	<iostream>
+	<vector>
+	<string>
+
+1765650381 source:d:\dsa practice questions\merkletree_dsa_project_final\src\merkleproof.cpp
+	"MerkleProof.h"
+	<string>
+	<iostream>
+
+1765650381 source:d:\dsa practice questions\merkletree_dsa_project_final\src\merkletree.cpp
+	"MerkleTree.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<chrono>
+
+1765651609 source:c:\users\hafsa naz\documents\merkletree_dsa_project_final\main.cpp
+	"MerkleTree.h"
+	"MerkleProof.h"
+	"FileComparator.h"
+	<string>
+	<vector>
+	<iostream>
+
+1765651414 c:\users\hafsa naz\documents\merkletree_dsa_project_final\include\merkletree.h
+	<vector>
+	<string>
+	"MerkleProof.h"
+
+1765651414 c:\users\hafsa naz\documents\merkletree_dsa_project_final\include\merkleproof.h
+	<iostream>
+	<vector>
+	<string>
+
+1765651414 c:\users\hafsa naz\documents\merkletree_dsa_project_final\include\filecomparator.h
+	"MerkleTree.h"
+	<iomanip>
+	<vector>
+	<string>
+
+1765651414 source:c:\users\hafsa naz\documents\merkletree_dsa_project_final\src\filecomparator.cpp
+	"FileComparator.h"
+	<iostream>
+	<iomanip>
+
+1765651414 source:c:\users\hafsa naz\documents\merkletree_dsa_project_final\src\merkleproof.cpp
+	"MerkleProof.h"
+	<string>
+	<iostream>
+
+1765651414 source:c:\users\hafsa naz\documents\merkletree_dsa_project_final\src\merkletree.cpp
+	"MerkleTree.h"
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<chrono>
+
