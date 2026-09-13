@@ -1,1 +1,1 @@
-# DSA-Project
+# Merkle Tree based Comparison Checker
